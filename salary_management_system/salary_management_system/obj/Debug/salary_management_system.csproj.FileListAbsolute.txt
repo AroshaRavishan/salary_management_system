@@ -1,0 +1,64 @@
+C:\Users\User\Desktop\Gayangi NIBM\A- online lec pdf\9-GUI Application\group project\salary_management_system\salary_management_system\bin\Debug\salary_management_system.exe.config
+C:\Users\User\Desktop\Gayangi NIBM\A- online lec pdf\9-GUI Application\group project\salary_management_system\salary_management_system\bin\Debug\salary_management_system.exe
+C:\Users\User\Desktop\Gayangi NIBM\A- online lec pdf\9-GUI Application\group project\salary_management_system\salary_management_system\bin\Debug\salary_management_system.pdb
+C:\Users\User\Desktop\Gayangi NIBM\A- online lec pdf\9-GUI Application\group project\salary_management_system\salary_management_system\obj\Debug\salary_management_system.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Gayangi NIBM\A- online lec pdf\9-GUI Application\group project\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Employee_manage.resources
+C:\Users\User\Desktop\Gayangi NIBM\A- online lec pdf\9-GUI Application\group project\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Login.resources
+C:\Users\User\Desktop\Gayangi NIBM\A- online lec pdf\9-GUI Application\group project\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Home.resources
+C:\Users\User\Desktop\Gayangi NIBM\A- online lec pdf\9-GUI Application\group project\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Properties.Resources.resources
+C:\Users\User\Desktop\Gayangi NIBM\A- online lec pdf\9-GUI Application\group project\salary_management_system\salary_management_system\obj\Debug\salary_management_system.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Gayangi NIBM\A- online lec pdf\9-GUI Application\group project\salary_management_system\salary_management_system\obj\Debug\salary_management_system.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Gayangi NIBM\A- online lec pdf\9-GUI Application\group project\salary_management_system\salary_management_system\obj\Debug\salary_management_system.exe
+C:\Users\User\Desktop\Gayangi NIBM\A- online lec pdf\9-GUI Application\group project\salary_management_system\salary_management_system\obj\Debug\salary_management_system.pdb
+C:\Users\User\Desktop\Gayangi NIBM\A- online lec pdf\9-GUI Application\group project\salary_management_system\salary_management_system\obj\Debug\salary_management_system.splash.resources
+C:\Users\User\Desktop\Gayangi NIBM\A- online lec pdf\9-GUI Application\group project\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Employee_details.resources
+C:\Users\M.G Arosha Ravishan\Downloads\salary_management_system\salary_management_system\bin\Debug\salary_management_system.exe.config
+C:\Users\M.G Arosha Ravishan\Downloads\salary_management_system\salary_management_system\bin\Debug\salary_management_system.exe
+C:\Users\M.G Arosha Ravishan\Downloads\salary_management_system\salary_management_system\bin\Debug\salary_management_system.pdb
+C:\Users\M.G Arosha Ravishan\Downloads\salary_management_system\salary_management_system\obj\Debug\salary_management_system.csprojAssemblyReference.cache
+C:\Users\M.G Arosha Ravishan\Downloads\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Employee_details.resources
+C:\Users\M.G Arosha Ravishan\Downloads\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Employee_manage.resources
+C:\Users\M.G Arosha Ravishan\Downloads\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Login.resources
+C:\Users\M.G Arosha Ravishan\Downloads\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Home.resources
+C:\Users\M.G Arosha Ravishan\Downloads\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Properties.Resources.resources
+C:\Users\M.G Arosha Ravishan\Downloads\salary_management_system\salary_management_system\obj\Debug\salary_management_system.splash.resources
+C:\Users\M.G Arosha Ravishan\Downloads\salary_management_system\salary_management_system\obj\Debug\salary_management_system.csproj.GenerateResource.cache
+C:\Users\M.G Arosha Ravishan\Downloads\salary_management_system\salary_management_system\obj\Debug\salary_management_system.csproj.CoreCompileInputs.cache
+C:\Users\M.G Arosha Ravishan\Downloads\salary_management_system\salary_management_system\obj\Debug\salary_management_system.exe
+C:\Users\M.G Arosha Ravishan\Downloads\salary_management_system\salary_management_system\obj\Debug\salary_management_system.pdb
+C:\Users\M.G Arosha Ravishan\Downloads\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Salary.resources
+E:\GUI\PROJECT\salary_management_system\salary_management_system\bin\Debug\salary_management_system.exe.config
+E:\GUI\PROJECT\salary_management_system\salary_management_system\bin\Debug\salary_management_system.exe
+E:\GUI\PROJECT\salary_management_system\salary_management_system\bin\Debug\salary_management_system.pdb
+E:\GUI\PROJECT\salary_management_system\salary_management_system\obj\Debug\salary_management_system.csprojAssemblyReference.cache
+E:\GUI\PROJECT\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Employee_details.resources
+E:\GUI\PROJECT\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Employee_manage.resources
+E:\GUI\PROJECT\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Login.resources
+E:\GUI\PROJECT\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Home.resources
+E:\GUI\PROJECT\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Properties.Resources.resources
+E:\GUI\PROJECT\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Salary.resources
+E:\GUI\PROJECT\salary_management_system\salary_management_system\obj\Debug\salary_management_system.splash.resources
+E:\GUI\PROJECT\salary_management_system\salary_management_system\obj\Debug\salary_management_system.csproj.GenerateResource.cache
+E:\GUI\PROJECT\salary_management_system\salary_management_system\obj\Debug\salary_management_system.csproj.CoreCompileInputs.cache
+E:\GUI\PROJECT\salary_management_system\salary_management_system\obj\Debug\salary_management_system.exe
+E:\GUI\PROJECT\salary_management_system\salary_management_system\obj\Debug\salary_management_system.pdb
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\bin\Debug\salary_management_system.exe.config
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\bin\Debug\salary_management_system.exe
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\bin\Debug\salary_management_system.pdb
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\obj\Debug\salary_management_system.csprojAssemblyReference.cache
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Employee_details.resources
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Employee_manage.resources
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Login.resources
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Home.resources
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Properties.Resources.resources
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Salary.resources
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\obj\Debug\salary_management_system.splash.resources
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\obj\Debug\salary_management_system.csproj.GenerateResource.cache
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\obj\Debug\salary_management_system.csproj.CoreCompileInputs.cache
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\obj\Debug\salary_management_system.exe
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\obj\Debug\salary_management_system.pdb
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Emp_Attendance.resources
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Add_msg.resources
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Check_Pwd.resources
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Msg_Log.resources
+C:\Users\M.G Arosha Ravishan\Desktop\gui\salary_management_system\salary_management_system\obj\Debug\salary_management_system.Without_log.resources
